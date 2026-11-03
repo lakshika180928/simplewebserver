@@ -119,7 +119,8 @@ Webpage
 ![alt text](image.png)
 
 Server Page
-![alt text](image-1.png)
+![alt text](<Screenshot (33).png>)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
