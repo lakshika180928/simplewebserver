@@ -116,7 +116,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 Webpage
-![Webpage](<Screenshot (34).png>) 
+![Webpage](<image.png>) 
 
 Server Page
 ![Server Page](<Screenshot (33).png>)
