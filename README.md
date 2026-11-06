@@ -116,10 +116,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 Webpage
-![Webpage](<image.png>) 
+![alt text](image-1.png)
 
 Server Page
-![Server Page](<Screenshot (33).png>)
+![alt text](<Screenshot (33)-1-2.png>)
 
 
 
